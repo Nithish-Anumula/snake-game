@@ -1,0 +1,25 @@
+.grid {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    border-style: red solid ;
+    background-color: black;
+  }
+  
+  .grid div {
+    width: 40Px;
+    height: 40px;
+   
+  }
+  
+  .snake {
+    border-block-style: solid;
+    background-color: blue;
+  
+  }
+  
+  .apple {
+    background-color: purple;
+  }
+  
